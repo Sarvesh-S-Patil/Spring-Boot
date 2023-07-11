@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="com.Sarvesh.one2Many.Cart" table ="cart-o2m">
+		<id name ="cartId" type="int" column="cartId">
+	 		<generator class="native"></generator>
+		</id>
+		<property name="totalBill" type = "int" column = "total"></property>
+		<set name="items" table ="items-o2m" fetch="select">
+			<key>
+			<column name="cartId" not-null="true"></column>
+			</key>	
+			<one-to-many class = "com.Sarvesh.one2Many.Item"/>
+		</set>
+	
+	</class>
+</hibernate-mapping>
