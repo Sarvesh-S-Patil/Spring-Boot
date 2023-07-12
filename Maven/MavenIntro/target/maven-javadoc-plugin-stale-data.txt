@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/sarve/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/sarve/eclipse-workspace/Maven/MavenIntro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023 <a href="www.DevelopersUnited.com">DevelopersUnited</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sarve/eclipse-workspace/Maven/MavenIntro/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Maven Introduction 0.0.1-SNAPSHOT API'
+-header
+'"This is JavaDoc for MavenIntro Project'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/sarve/eclipse-workspace/Maven/MavenIntro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Maven Introduction 0.0.1-SNAPSHOT API'
+com.Sarvesh.MavenIntro
+C:\Users\sarve\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar = 1686497795491
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\src\main\java = 1686471208233
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\allclasses-index.html = 1686766094205
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\allpackages-index.html = 1686766094207
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\element-list = 1686766094162
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\help-doc.html = 1686766094231
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\index-all.html = 1686766094223
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\index.html = 1686766094226
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\jquery-ui.overrides.css = 1686766094268
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\member-search-index.js = 1686766094213
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\module-search-index.js = 1686766094208
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\overview-tree.html = 1686766094194
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\package-search-index.js = 1686766094210
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\script.js = 1686766094236
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\search.js = 1686766094238
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\stylesheet.css = 1686766094234
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\tag-search-index.js = 1686766094214
+C:\Users\sarve\eclipse-workspace\Maven\MavenIntro\target\site\apidocs\type-search-index.js = 1686766094211
